@@ -1,1 +1,3 @@
 sample python code to push to git`
+
+this code is  then changed to newfile and then push code changes 
